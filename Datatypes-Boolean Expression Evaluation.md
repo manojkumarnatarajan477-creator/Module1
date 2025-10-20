@@ -32,4 +32,4 @@ print("d is:",d)
 ![alt text](<Screenshot 2025-10-20 114536.png>)
 
 ## Result
-Thus,the python code executed successfully
+
