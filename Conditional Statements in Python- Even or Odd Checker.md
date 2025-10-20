@@ -25,4 +25,4 @@ else:
 
 
 ## Result
-Thus,the python code executed successfully.
+
