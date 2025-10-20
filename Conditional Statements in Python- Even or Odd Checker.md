@@ -25,4 +25,4 @@ else:
 
 
 ## Result
-
+This program efficiently distinguishes even and odd numbers using a simple conditional check and prints the correct label accordingly.

@@ -25,3 +25,4 @@ print("Imaginary part :",x.imag)
 ![alt text](<Screenshot 2025-10-20 115957.png>)
 
 ## Result
+The program successfully creates a complex number from user input and displays its real and imaginary parts.
