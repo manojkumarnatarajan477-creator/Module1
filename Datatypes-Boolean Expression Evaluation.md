@@ -32,4 +32,4 @@ print("d is:",d)
 ![alt text](<Screenshot 2025-10-20 114536.png>)
 
 ## Result
-
+The program successfully evaluates boolean and arithmetic expressions involving True and False and displays the correct results.
